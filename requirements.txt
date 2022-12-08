@@ -1,0 +1,11 @@
+pandas
+numpy
+pyowm
+folium
+webbrowser
+os
+collections
+math
+PyQt5
+pygame
+bestconfig
